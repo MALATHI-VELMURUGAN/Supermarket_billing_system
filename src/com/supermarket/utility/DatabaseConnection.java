@@ -5,7 +5,11 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DatabaseConnection {
+<<<<<<< HEAD
     private static final String URL = "jdbc:mysql://127.0.0.1:3306/Supermarket";
+=======
+    private static final String URL = "jdbc:mysql://127.0.0.1:3306/supermarket_data";
+>>>>>>> 3cf0032 (insert product functionality)
     private static final String USER = "root";
     private static final String PASSWORD = "root";
 

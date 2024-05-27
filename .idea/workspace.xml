@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8dd36c7e-7b78-480a-a593-d7b0f3be25a5" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -11,6 +12,15 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Super_market_billing_system.iml" afterDir="false" />
+=======
+    <list default="true" id="8dd36c7e-7b78-480a-a593-d7b0f3be25a5" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Super_market_billing_system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Super_market_billing_system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/supermarket/dao/ProductDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/supermarket/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/supermarket/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/supermarket/service/ProductServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/supermarket/service/ProductServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/supermarket/utility/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/supermarket/utility/DatabaseConnection.java" afterDir="false" />
+>>>>>>> 3cf0032 (insert product functionality)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +30,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="Interface" />
+>>>>>>> 3cf0032 (insert product functionality)
         <option value="Class" />
       </list>
     </option>
@@ -38,6 +52,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -48,6 +63,39 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/RAJAVEL MALATHI/OneDrive/Desktop/jar/mysql-connector-java-8.0.25.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.supermarket.Main" />
+      <module name="Super_market_billing_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.supermarket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> 3cf0032 (insert product functionality)
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +105,17 @@
       <option name="presentableId" value="Default" />
       <updated>1716561976379</updated>
     </task>
+<<<<<<< HEAD
+=======
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1716833915658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716833915658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 3cf0032 (insert product functionality)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,4 +129,21 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+>>>>>>> 3cf0032 (insert product functionality)
 </project>
